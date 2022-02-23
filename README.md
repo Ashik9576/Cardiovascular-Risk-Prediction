@@ -1,4 +1,4 @@
-# Carduovascular-Risk-Prediction
+# Cardiovascular-Risk-Prediction
 The dataset is from an ongoing cardiovascular studyon residents of the town of Framingham,Massachusetts. The classification goal is to predictwhether the patient has a 10-year risk offuture coronary heart disease (CHD). The dataset providesthe patients’ information. It includesover 4,000 records and 15 attributes.VariablesEach attribute is a potential risk factor. There are both demographic, behavioral, and medical riskfactors.
 
 # Data DescriptionDemographic:
