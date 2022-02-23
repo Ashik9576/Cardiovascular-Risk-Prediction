@@ -41,5 +41,5 @@ For modelling we tried various classification algorithms like
 That's it! We reached the end of our exercise. Starting with loading the data so far we have done EDA , null values treatment, encoding of categorical columns, feature selection and then model building. In all of these models our accuracy revolves in the range of 70 to 96%. So the accuracy of our best model is 96% which can be said to be good for this large dataset. As we see there are some cardiovascular diseases more depends on age, sex, patient with hypertensive , and there are some features which effects least to our model like, Diabates, previous Strock history, Blood pressure history.
 
 # References
-https://www.nature.com/articles/s41598-020-62133-5
-https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(19)30365-1/fulltext
+* https://www.nature.com/articles/s41598-020-62133-5
+* https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(19)30365-1/fulltext
